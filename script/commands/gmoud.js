@@ -1,5 +1,5 @@
 module.exports.config = {
-	name: "غموض",
+	name: "gmound",
 	version: "1.1.2",
 	hasPermssion: 0,
 	credits: "عمر",
