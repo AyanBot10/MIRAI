@@ -3,7 +3,7 @@ const axios = require('axios');
 const commandName = "مغامره";
 module.exports = {
   config: {
-    name: "مغامره",
+    name: "chonggotn",
     version: "1.0",
     credits: "لوفي وريان تشان",
     cooldowns: 5,
