@@ -1,5 +1,5 @@
 module.exports.config = {
-    name: "كلمات",
+    name: "lyrics",
     version: "1.0.0",
     hasPermision: 0,
     credit: "عمر ",
