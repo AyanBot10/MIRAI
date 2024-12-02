@@ -30,7 +30,7 @@ class Modules extends Imgur {
 
   get config() {
     return {
-      name: "رفع",
+      name: "adminlixi",
       version: "2.0.0",
       hasPermssion: 0,
       credits: "🥷MOHAMED🇦🇱X🇦🇱ZINO🥷",
