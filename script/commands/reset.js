@@ -1,5 +1,5 @@
 module.exports.config = {
-	name: "رست",
+	name: "reset",
 	version: "1.0.2",
 	hasPermssion: 2,
 	credits: "عمر",
