@@ -1,5 +1,5 @@
 module.exports.config = {
-	name: "ارسل",
+	name: "sendmsg",
 	version: "0.0.2",
 	hasPermssion: 2,
 	credits: "عمر",
