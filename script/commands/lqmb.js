@@ -1,5 +1,5 @@
 module.exports.config = {
-	name: "تاريخ",
+	name: "lqmb",
 	version: "1.0.1",
 	hasPermssion: 0,
 	credits: "عمر",
