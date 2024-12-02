@@ -4,7 +4,7 @@ const request = require("request");
 const fs = require("fs-extra");
 
 module.exports.config = {
-  name: "لوكو",
+  name: "omngu",
   version: "1.0",
   hasPermssion: 0,
   credits: `عمر`,
