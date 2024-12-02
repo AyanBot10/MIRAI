@@ -1,6 +1,6 @@
 module.exports.config = {
 
-	name: "ميسي",
+	name: "messi",
 	version: "1.0.1",
 	hasPermssion: 0,
 	credits: "عمر",
