@@ -1,5 +1,5 @@
 شmodule.exports.config = {
-    name: "زخرفه",
+    name: "yaytext",
     version: "1.0.1",
     hasPermssion: 0,
     credits: "عمر",
