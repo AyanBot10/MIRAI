@@ -1,5 +1,5 @@
 module.exports.config = {
-  name: "بورنهب",
+  name: "phub",
 
   version: "1.0.2",
   hasPermssion: 0,
