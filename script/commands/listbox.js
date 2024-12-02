@@ -1,5 +1,5 @@
 module.exports.config = {
-  name: "لاست",
+  name: "listbox",
   version: '1.0.0',
   credits: 'عمر',
   hasPermssion: 2,
