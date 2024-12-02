@@ -1,5 +1,5 @@
 module.exports.config = {
-	name: "كت",
+	name: "askme",
 	version: "1.1.2",
 	hasPermssion: 0,
 	credits: "عمر",
