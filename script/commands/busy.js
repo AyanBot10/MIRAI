@@ -1,5 +1,5 @@
 module.exports.config = {
-	name: "مشغول",
+	name: "busy",
 	version: "1.0.0",
 	permissions: 0,
 	credits: "عمر",
