@@ -1,5 +1,5 @@
 module.exports.config = {
-    name: "تحويل",
+    name: "pay",
     version: "1.1.1",
     hasPermssion: 0,
     credits: "عمر",
