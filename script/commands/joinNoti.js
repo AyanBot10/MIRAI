@@ -1,5 +1,5 @@
 module.exports.config = {
-    name: "ترحيب",
+    name: "joinnoti",
     version: "1.0.0",
     hasPermssion: 1,
     credits: "عمر",
