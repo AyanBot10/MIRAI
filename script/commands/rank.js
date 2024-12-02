@@ -1,6 +1,6 @@
 const fs = global.nodemodule["fs-extra"];
 module.exports.config = {
-  name: "لفل",
+  name: "rank",
   version: "1.0.0",
   hasPermssion: 0,
   credits: "عمر",
