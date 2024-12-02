@@ -1,5 +1,5 @@
 module.exports.config = {
-  name: "فريند",
+  name: "listf",
   version: "1.0.0",
   hasPermssion: 2,
   credits: "عمر",
