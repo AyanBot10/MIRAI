@@ -1,5 +1,5 @@
 module.exports.config = {
-    name: "فلم",
+    name: "movie2",
     version: "1.0.0",
     hasPermssion: 0,
     credits: "عبدالرحمن",
