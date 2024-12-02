@@ -1,5 +1,5 @@
 module.exports.config = {
-name: "اطرديني",
+name: "kickme",
 version: "1.0.0",
 hasPermssion: 0,
 credits: "عمر",
