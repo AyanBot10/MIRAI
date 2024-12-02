@@ -1,5 +1,5 @@
 module.exports.config = {
-    name: "توب",
+    name: "top",
     version: "1.0.8",
     hasPermssion: 0,
     credits: "عمر",
