@@ -1,5 +1,5 @@
 module.exports.config = {
-    name: "كنية",
+    name: "autosetname",
     version: "1.0.1",
     hasPermssion: 1,
     credits: "عمر",
