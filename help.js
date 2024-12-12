@@ -50,8 +50,7 @@ module.exports = {
           }
         }
 
-        return `A Y A N ♡ \n
-│ fb.com/ayan.alvi.6`;
+        return `A Y A N ♡ \n│ fb.com/ayan.alvi.6`;
       } catch (error) {
         console.error('Error fetching bot info:', error);
         return 'Unable to fetch bot and owner information.';
