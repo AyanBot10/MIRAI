@@ -31,6 +31,4 @@ jobs:
 
     # Step to run the bot with the correct port
     - name: Start the bot
-      env:
-        PORT: 8080
       run: npm start
